@@ -1,0 +1,2 @@
+aws_account = "aci"
+region = "eu-west-2"
